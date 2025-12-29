@@ -5,7 +5,7 @@
 </p>
 
 
-<h1 align="center">👋 Hi, I'm YOUR NAME</h1>
+<h1 align="center">👋 Hi, I'm Purvik Anghan</h1>
 
 🎓 Aspiring Data Analyst  
 📊 Passionate about turning data into meaningful insights  
